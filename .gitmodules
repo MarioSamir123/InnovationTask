@@ -1,0 +1,3 @@
+[submodule "innovation-task"]
+	path = innovation-task
+	url = ./InnovationTask.CleintSide/innovation-task/
