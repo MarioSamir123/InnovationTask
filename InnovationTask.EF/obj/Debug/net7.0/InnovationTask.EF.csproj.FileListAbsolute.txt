@@ -1,0 +1,17 @@
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\bin\Debug\net7.0\InnovationTask.EF.deps.json
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\bin\Debug\net7.0\InnovationTask.EF.runtimeconfig.json
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\bin\Debug\net7.0\InnovationTask.EF.dll
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\bin\Debug\net7.0\InnovationTask.EF.pdb
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\bin\Debug\net7.0\InnovationTask.Core.dll
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\bin\Debug\net7.0\InnovationTask.Core.pdb
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\obj\Debug\net7.0\InnovationTask.EF.csproj.AssemblyReference.cache
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\obj\Debug\net7.0\InnovationTask.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\obj\Debug\net7.0\InnovationTask.EF.AssemblyInfoInputs.cache
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\obj\Debug\net7.0\InnovationTask.EF.AssemblyInfo.cs
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\obj\Debug\net7.0\InnovationTask.EF.csproj.CoreCompileInputs.cache
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\obj\Debug\net7.0\InnovationTask.EF.csproj.CopyComplete
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\obj\Debug\net7.0\InnovationTask.EF.dll
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\obj\Debug\net7.0\refint\InnovationTask.EF.dll
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\obj\Debug\net7.0\InnovationTask.EF.pdb
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\obj\Debug\net7.0\InnovationTask.EF.genruntimeconfig.cache
+C:\Users\Maro\source\repos\InnovationTask\InnovationTask.EF\obj\Debug\net7.0\ref\InnovationTask.EF.dll

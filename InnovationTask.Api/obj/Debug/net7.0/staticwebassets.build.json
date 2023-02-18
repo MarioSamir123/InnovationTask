@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nkUCO5ut6LIdQqK6GBa4NwvWIfJGQYkjJu6LjicjpFg=",
+  "Source": "InnovationTask.Api",
+  "BasePath": "_content/InnovationTask.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
